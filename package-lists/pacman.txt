@@ -17,7 +17,6 @@ blueman
 redshift
 ufw
 neovim
-code
 jupyter-notebook
 git
 python-pip
